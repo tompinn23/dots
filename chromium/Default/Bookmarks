@@ -1,0 +1,39 @@
+{
+   "checksum": "2653cda3ed2b7f1f504be9adcff3fc03",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13152889231913662",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13152889231940479"
+            },
+            "name": "Welcome to Chromium",
+            "type": "url",
+            "url": "chrome://welcome/"
+         } ],
+         "date_added": "13152889228740295",
+         "date_modified": "13152889231913662",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13152889228740311",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13152889228740316",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

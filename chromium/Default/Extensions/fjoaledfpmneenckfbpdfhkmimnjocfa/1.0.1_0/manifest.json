@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "assets/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/images/icons/nordvpn-48-off.png",
+      "default_popup": "main.html"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/js/fakegeo_content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "With this proxy extension, you can stay secure and private on the Internet and avoid those annoying online ads.",
+   "icons": {
+      "128": "assets/images/icons/nordvpn-128-on.png",
+      "16": "assets/images/icons/nordvpn-16-on.png",
+      "32": "assets/images/icons/nordvpn-32-on.png",
+      "48": "assets/images/icons/nordvpn-48-on.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAovAakLldwMVE/HIEVD/yHY9EfNA+cTxEyR2u6Iw400mcGqz0fN+p93GNoP29k9XMWnlUYg63wKvxtDBfsEgoI064GHspNtooo2Sx3UIHcQB5L1jXoNcvmMLRbsqbdZfTSUDHmr6UeVoMmMtV5G08YR6bUVQPghkPfq03NhZ1M3ElFgjz6iCwyCl1WRDzbdntXZeFspJRQ9B2IaehFzjNDsN3nXR9QV6WRdN/VDh3EuWJjvwZAcer/uzDXCXGGJedsX+WwKVdiLBlvwF8y66EHPV4hqqfvHJHajp12Ia7EUGzoTtwD4vs/fCqkMtEIjbeLhmj6nO4SUfPRHQbRQIHSwIDAQAB",
+   "manifest_version": 2,
+   "name": "NordVPN Proxy Extension - Privacy & Security",
+   "permissions": [ "proxy", "webRequest", "webRequestBlocking", "privacy", "\u003Call_urls>", "storage", "background", "geolocation", "tabs" ],
+   "short_name": "Web Proxy",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
