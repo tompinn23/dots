@@ -1,0 +1,11 @@
+[2018-01-10 18:47:10.296] [renderer1] [error] Cannot read property 'result' of null: TypeError: Cannot read property 'result' of null
+    at Function.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:208616:51)
+    at step (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:227363:23)
+    at Object.f [as next] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:227344:53)
+    at fulfilled (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:12178:58)
+    at Object.notifySuccess [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:11260:59)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:10942:30)
+    at Promise_ctor._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:11158:29)
+    at Promise_ctor._completed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:11126:18)
+    at Object.notifySuccess [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:11260:59)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:10942:30)

@@ -1,0 +1,18 @@
+[2018-01-15 17:51:27.734] [exthost1] [info] extension host started
+[2018-01-15 17:51:27.744] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-15 17:51:27.744] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-01-15 17:51:28.484] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-15 17:51:28.484] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-01-15 17:51:28.925] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-15 17:51:28.925] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-01-15 17:51:29.252] [exthost1] [info] eager extensions activated
+[2018-01-15 17:51:29.256] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-01-15 17:51:29.256] [exthost1] [info] ExtensionService#loadCommonJSModule /home/tom/.vscode-oss/extensions/ms-vscode.cpptools-0.14.5/out/src/main
+[2018-01-15 17:51:57.351] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-15 17:51:57.351] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/configuration-editing/out/extension
+[2018-01-15 17:51:57.404] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-15 17:51:57.404] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/extension-editing/out/extension
+[2018-01-15 17:51:57.479] [exthost1] [info] ExtensionService#_doActivateExtension vscode.javascript {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-15 17:51:57.479] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/javascript/out/javascriptMain
+[2018-01-15 17:51:57.578] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-15 17:51:57.578] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/json/client/out/jsonMain

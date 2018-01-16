@@ -1,0 +1,20 @@
+[2018-01-15 18:34:03.179] [exthost1] [info] extension host started
+[2018-01-15 18:34:03.202] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:34:03.202] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-01-15 18:34:04.335] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:34:04.335] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-01-15 18:34:04.524] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:34:04.524] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-01-15 18:34:04.594] [exthost1] [info] eager extensions activated
+[2018-01-15 18:34:04.596] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-01-15 18:34:04.596] [exthost1] [info] ExtensionService#loadCommonJSModule /home/tom/.vscode-oss/extensions/ms-vscode.cpptools-0.14.5/out/src/main
+[2018-01-15 18:39:59.455] [exthost1] [info] extension host started
+[2018-01-15 18:39:59.468] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:39:59.468] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-01-15 18:39:59.515] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:39:59.515] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-01-15 18:39:59.578] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-15 18:39:59.578] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-01-15 18:39:59.591] [exthost1] [info] eager extensions activated
+[2018-01-15 18:40:14.836] [exthost1] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2018-01-15 18:40:14.836] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/python/out/pythonMain
